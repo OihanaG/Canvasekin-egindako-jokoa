@@ -1,0 +1,9 @@
+canvas {
+	border: 1px solid black;
+}
+body{
+	margin-top: 40px;
+	text-align: center;
+	background-image: url("fondo.png");
+	background-position: center;
+}
